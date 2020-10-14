@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52f7735d-a1dc-4ca4-822c-fc44d13cdbf0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.15.1/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1iXafpnGXljIX2qsOZAzPgPio5d" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RunManager" selected="Go Test.TestRepository_Fetch in github.com/rezaindrag/goelasticsearch/repository">
+    <configuration name="go build github.com/rezaindrag/goelasticsearch/main" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="goelasticsearch" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main/main.go" />
+      <package value="github.com/rezaindrag/goelasticsearch/main" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestRepository_Fetch in github.com/rezaindrag/goelasticsearch/repository" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="goelasticsearch" />
+      <working_directory value="$PROJECT_DIR$/repository" />
+      <parameters value=" -testify.m ^TestRepository_Fetch$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/rezaindrag/goelasticsearch/repository" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestRepository_Update in github.com/rezaindrag/goelasticsearch/repository" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="goelasticsearch" />
+      <working_directory value="$PROJECT_DIR$/repository" />
+      <parameters value=" -testify.m ^TestRepository_Update$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/rezaindrag/goelasticsearch/repository" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test github.com/rezaindrag/goelasticsearch/repository" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="goelasticsearch" />
+      <working_directory value="$PROJECT_DIR$/repository" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/rezaindrag/goelasticsearch/repository" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestRepository_Fetch in github.com/rezaindrag/goelasticsearch/repository" />
+        <item itemvalue="Go Test.TestRepository_Update in github.com/rezaindrag/goelasticsearch/repository" />
+        <item itemvalue="Go Test.go test github.com/rezaindrag/goelasticsearch/repository" />
+        <item itemvalue="Go Build.go build github.com/rezaindrag/goelasticsearch/main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="374" y="235" key="EditFileWatcherDialog" timestamp="1602057756429">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="374" y="235" key="EditFileWatcherDialog/0.0.1440.900@0.0.1440.900" timestamp="1602057756429" />
+    <state width="1398" height="290" key="GridCell.Tab.0.bottom" timestamp="1602649742084">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="347" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1602648776583" />
+    <state width="1398" height="290" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1602649742084" />
+    <state width="1398" height="290" key="GridCell.Tab.0.center" timestamp="1602649742082">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="347" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1602648776581" />
+    <state width="1398" height="290" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1602649742082" />
+    <state width="1398" height="290" key="GridCell.Tab.0.left" timestamp="1602649742081">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="347" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1602648776580" />
+    <state width="1398" height="290" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1602649742081" />
+    <state width="1398" height="290" key="GridCell.Tab.0.right" timestamp="1602649742083">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="347" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1602648776582" />
+    <state width="1398" height="290" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1602649742083" />
+    <state x="232" y="57" key="SettingsEditor" timestamp="1602575498971">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="232" y="57" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1602575498971" />
+  </component>
+</project>
