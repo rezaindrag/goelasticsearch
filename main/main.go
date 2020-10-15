@@ -17,7 +17,7 @@ func main() {
 		panic(err)
 	}
 
-	restapi.NewAPI(e, repository.NewRepository(client, "mydocument"))
+	restapi.NewAPI(e, repository.NewRepository(client, "document"))
 
 	if err := e.Start(":7723"); err != nil {
 		panic(err)
