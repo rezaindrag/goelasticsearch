@@ -9,6 +9,7 @@ import (
 	"github.com/stretchr/testify/require"
 	"github.com/stretchr/testify/suite"
 	"testing"
+	"time"
 )
 
 type repositorySuite struct {
@@ -54,6 +55,8 @@ func (r *repositorySuite) SetupTest() {
 			require.NoError(r.T(), err)
 		}
 	}
+
+	time.Sleep(2 * time.Second)
 }
 
 func (r *repositorySuite) TearDownTest() {
@@ -73,8 +76,6 @@ func Test(t *testing.T) {
 }
 
 func (r *repositoryTest) TestRepository_Fetch() {
-	assert.Equal(r.T(), "bar", r.indexName)
-
 	repository := NewRepository(r.client, r.indexName)
 	documents, err := repository.Fetch(context.TODO())
 	require.NoError(r.T(), err)
